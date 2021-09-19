@@ -15,7 +15,8 @@ Bot can front run by setting higher gas fee and using direct node for transactio
 - Install packages `npm install` from inside project folder
 - Run script `npm start` or `node frontrun.js`
 
-Cassandra Rodrigues - https://www.linkedin.com/in/cassandra-rodrigues-a712b0202
-Kate Rebello -  https://www.linkedin.com/in/kate-rebello-a38235194
-Aaron Rodrigues - https://www.linkedin.com/in/aaron-rodrigues-12b3071bb
+## Team Members
+Cassandra Rodrigues - https://www.linkedin.com/in/cassandra-rodrigues-a712b0202 <br>
+Kate Rebello -  https://www.linkedin.com/in/kate-rebello-a38235194 <br>
+Aaron Rodrigues - https://www.linkedin.com/in/aaron-rodrigues-12b3071bb <br>
 Vatsal Mehta - https://www.linkedin.com/in/vatsal-mehta-270556200
